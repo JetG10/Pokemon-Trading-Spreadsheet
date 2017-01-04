@@ -2,7 +2,7 @@
 // ID of the Google spreadsheet
 // ***********************************************************************************
 // Make sure your spreadsheet is published (File > Publish to the web…)
-var spreadsheetId = "1h8WjTiesswubhHbKRgafsVamIsB3q_VzqfND3WRxka4";
+var spreadsheetId = "16e25K0i_p-OpuCXNVp-ek0nJbCq_DNuOiEM9Brcr7Ys";
 
 // ***********************************************************************************
 // Position of Breedables, Shinies and Wants worksheet
@@ -11,7 +11,6 @@ var spreadsheetId = "1h8WjTiesswubhHbKRgafsVamIsB3q_VzqfND3WRxka4";
 var breedjectsWorksheet = 1;
 var perfectsWorksheet = 2;
 var breedablesWorksheet = 3;
-var lookingforWorksheet = 4;
 
 // ***********************************************************************************
 // Your FC and IGN

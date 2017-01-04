@@ -8,9 +8,9 @@ var spreadsheetId = "16e25K0i_p-OpuCXNVp-ek0nJbCq_DNuOiEM9Brcr7Ys";
 // Position of Breedables, Shinies and Wants worksheet
 // ***********************************************************************************
 // If you don't have one worksheet, set the value to -1 to disable it
-var breedjectsWorksheet = 1;
-var perfectsWorksheet = 2;
-var breedablesWorksheet = 3;
+var breedablesWorksheet = 1;
+var shiniesWorksheet = 2;
+var wantsWorksheet = 3;
 
 // ***********************************************************************************
 // Your FC and IGN
